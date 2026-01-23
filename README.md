@@ -1,0 +1,1 @@
+# S6-PYTHON-KTU-2026
