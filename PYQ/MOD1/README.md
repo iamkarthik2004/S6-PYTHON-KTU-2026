@@ -36,5 +36,19 @@ print("Even numbers count: ", even)
 print("Odd numbers count: ", odd)
 ```
 
+### Output
+```
+Enter number of elements: 6
+Enter number 1: 1
+Enter number 2: 2
+Enter number 3: 3
+Enter number 4: 4
+Enter number 5: 5
+Enter number 6: 6
+
+Even numbers count: 3
+Odd numbers count: 3
+```
+
 ## 🅰️ PART B
 
